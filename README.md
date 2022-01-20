@@ -20,4 +20,4 @@ The Cloud Vision API recognizes text in 100+ different languages and can be test
 
 ## Tutorial
 
-- [Medium Blog](https://medium.com/p/e7639099fba/edit)
+- [Medium Blog](https://medium.com/the-web-tub/ocr-with-javascript-e7639099fba)
