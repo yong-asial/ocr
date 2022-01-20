@@ -3,6 +3,7 @@
 Optical Character Recognition (OCR) is a widespread technology to recognize text inside images. It is used to convert images containing text (typed, handwritten, or printed) into machine-readable text data. In this repo, we are creating a simple OCR application with Google Cloud Version API.
 
 ## What are we building?
+![1_ZW6phpvGv4mxdnFMKjaOxQ](https://user-images.githubusercontent.com/28589278/150264258-900874ce-0cdb-4b45-b8c4-2c22ee3c9604.png)
 
 Here, it is what we are going to build. It takes a picture with a mobile phone camera or pc webcam, displays it as the first picture, then draws bounding boxes around detected text in the second picture, and finally outputs all the text at the bottom.
 
